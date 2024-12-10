@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "QERPO1+7HbWoUdFQK3x+kFDvBv9AWkou/Ry7BNjR0Fw=",
+  "Source": "VoiceChatApp",
+  "BasePath": "_content/VoiceChatApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VoiceChatApp\\wwwroot",
+      "Source": "VoiceChatApp",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\VoiceChatApp\\wwwroot\\",
+      "BasePath": "_content/VoiceChatApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\VoiceChatApp\\wwwroot\\css\\style.css",
+      "SourceId": "VoiceChatApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\VoiceChatApp\\wwwroot\\",
+      "BasePath": "_content/VoiceChatApp",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\VoiceChatApp\\wwwroot\\img\\Mic.png",
+      "SourceId": "VoiceChatApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\VoiceChatApp\\wwwroot\\",
+      "BasePath": "_content/VoiceChatApp",
+      "RelativePath": "img/Mic.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Mic.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\VoiceChatApp\\wwwroot\\js\\script.js",
+      "SourceId": "VoiceChatApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\VoiceChatApp\\wwwroot\\",
+      "BasePath": "_content/VoiceChatApp",
+      "RelativePath": "js/script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\script.js"
+    }
+  ]
+}

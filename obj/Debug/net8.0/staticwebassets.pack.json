@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\VoiceChatApp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\VoiceChatApp\\wwwroot\\img\\Mic.png",
+      "PackagePath": "staticwebassets\\img\\Mic.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\VoiceChatApp\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VoiceChatApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.VoiceChatApp.props",
+      "PackagePath": "build\\VoiceChatApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.VoiceChatApp.props",
+      "PackagePath": "buildMultiTargeting\\VoiceChatApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.VoiceChatApp.props",
+      "PackagePath": "buildTransitive\\VoiceChatApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

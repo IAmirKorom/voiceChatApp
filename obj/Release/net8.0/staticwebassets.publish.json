@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "2FlWD/ejUM9Q/179Jqo9ZAH3w5J/J65K5OEmsWTqfJI=",
+  "Source": "VoiceChatApp",
+  "BasePath": "_content/VoiceChatApp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VoiceChatApp\\wwwroot",
+      "Source": "VoiceChatApp",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\VoiceChatApp\\wwwroot\\",
+      "BasePath": "_content/VoiceChatApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
